@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **s2420713@u.tsukuba.ac.jp**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
