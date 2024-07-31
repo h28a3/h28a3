@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm 阿部浩人</h1>
-<h3 align="center">筑波大学大学院理工情報生命学術院システム情報工学研究群知能機能システム学位プログラム博士前期課程1年</h3>
+<h1 align="center">Hi 👋, I'm Hiroto Abe</h1>
+<h3 align="center">Graduate School of Science and Technology, Degree Programs in Systems and Information Engineering, Master’s Program in Intelligent and Mechanical Interaction Systems, University of Tsukuba</h3>
 
-- 🌱 I’m currently learning **情報理論**
+- 🌱 I’m currently learning **information theory**
 
 - 📫 How to reach me **s2420713@u.tsukuba.ac.jp**
 
