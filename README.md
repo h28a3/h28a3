@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **s2420713@u.tsukuba.ac.jp**
 
+- スキル
+  - TOEIC 700点
+  - AtCoder レート140
+
 <p align="left">
 </p>
 
