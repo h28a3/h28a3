@@ -7,6 +7,7 @@
 - 📫 How to reach me **s2420713@u.tsukuba.ac.jp**
 
 - スキル
+  - Python 2年，C/C++ 3年
   - TOEIC 700点
   - AtCoder レート140
 
