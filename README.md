@@ -14,7 +14,7 @@
 - 研究内容
   - 卒業研究：しきい値型秘密分散法における Leakage の統計的距離の評価
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3&show_icons=true&locale=en&layout=compact)
 
 <p align="left">
 </p>
