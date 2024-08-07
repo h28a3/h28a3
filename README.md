@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiroto Abe</h1>
 <h3 align="center">Master’s Program in Intelligent and Mechanical Interaction Systems, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, University of Tsukuba</h3>
-<h3 align="center">筑波大学大学院理工情報生命学術院システム情報工学研究群知能機能システム学位プログラム</h3>
+<h3 align="center">筑波大学大学院理工情報生命学術院システム情報工学研究群知能機能システム学位プログラム博士前期課程</h3>
 
 - 🌱 I’m currently learning **information theory**, also participate in AI-based robotics laboratory seminars.
 
