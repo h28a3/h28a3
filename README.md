@@ -12,7 +12,9 @@
   - AtCoder 最高レート290
 
 - 研究内容
-  - 卒業研究：しきい値型秘密分散法における Leakage の統計的距離の評価
+  - 秘密分散法
+    - 卒業研究：しきい値型秘密分散法における Leakage の統計的距離の評価
+    - 修士研究：未定
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3&show_icons=true&locale=en&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=h28a3&theme=gruvbox)
