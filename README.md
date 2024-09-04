@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiroto Abe</h1>
 <h3 align="center">Master’s Program in Intelligent and Mechanical Interaction Systems, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, University of Tsukuba</h3>
 <h3 align="center">筑波大学大学院理工情報生命学術院システム情報工学研究群知能機能システム学位プログラム博士前期課程</h3>
-
+- 26卒，就職予定
 - 情報工学専攻，情報理論研究室所属，知能ロボット系研究室のゼミに参加中
+
 
 - 連絡先：**s2420713@u.tsukuba.ac.jp**
 
