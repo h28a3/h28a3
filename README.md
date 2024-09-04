@@ -14,7 +14,11 @@
 - 研究内容
   - 秘密分散法
     - 卒業研究：しきい値型秘密分散法における Leakage の統計的距離の評価
+      
+      (n,n)しきい値法で一定の情報漏れが起こったときに秘密情報に関する情報がどの程度漏れるのか．
     - 修士研究：未定
+      
+      卒業研究をより一般化
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3&show_icons=true&locale=en&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=h28a3&theme=gruvbox)
