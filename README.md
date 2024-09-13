@@ -24,6 +24,13 @@
       
       卒業研究をより一般化
 
+- 趣味
+  - 読書
+  - ドライブ
+
+- 特技
+  - スポーツ(サッカー，スノーボード)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3&show_icons=true&locale=en&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=h28a3&theme=gruvbox)
 
