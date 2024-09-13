@@ -7,7 +7,7 @@
 - 連絡先：**s2420713@u.tsukuba.ac.jp**
 
 - スキル
-  - Python 2年，C/C++ 3年
+  - プログラミング(Python 2年，C/C++ 3年)
   - TOEIC 700点
   - AtCoder 最高レート290
 - インターン経験
