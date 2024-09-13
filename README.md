@@ -12,7 +12,7 @@
   - AtCoder 最高レート290
 - インターン経験
   - 10days 1社(通信系)
-  - 5days 1社(SIer系)
+  - 5days 2社(SIer系)
   - 2days,1day 5~10社(通信系，SIer系，コンサル系...)
 
 - 研究内容
