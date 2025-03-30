@@ -34,7 +34,7 @@
   - ドラマ、映画鑑賞
 
 - 特技
-  - スポーツ(サッカー，スノーボード)
+  - スポーツ(サッカー，スノーボード等)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=h28a3&show_icons=true&locale=en&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=h28a3&theme=gruvbox)
