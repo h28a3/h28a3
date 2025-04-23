@@ -6,7 +6,7 @@
 - Class of 2026(Master of Engineering)
 - 情報工学専攻，情報理論研究室所属，知能ロボット研究室のゼミにも参加中
 - SITA2024にセカンドオーサーの論文投稿
-- 大学院入学後GPA 3.72(MAX 4.3)
+- 大学時代GPA 3.72(MAX 4.3)
 - 大学院入学後GPA 4.1(MAX 4.3)
 - AWS 勉強中
 - 連絡先：**s2420713@u.tsukuba.ac.jp**
