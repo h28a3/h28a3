@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hiroto Abe</h1>
-<h3 align="center">Master’s Program in Intelligent and Mechanical Interaction Systems, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, University of Tsukuba</h3>
-<h3 align="center">筑波大学大学院理工情報生命学術院システム情報工学研究群知能機能システム学位プログラム博士前期課程</h3>
+<h1 align="center">Hi 👋, I'm H.A</h1>
+<h3 align="center">工学修士(Master of Engineerimg)</h3>
 
-- 26卒(工学修士)，就職予定
-- Class of 2026(Master of Engineering)
-- 情報工学専攻，情報理論研究室所属，知能ロボット研究室のゼミにも参加中
 - SITA2024にセカンドオーサーの論文投稿
-- 大学時代GPA 3.72(MAX 4.3)
-- 大学院入学後GPA 4.1(MAX 4.3)
-- AWS 勉強中
-- 連絡先：**s2420713@u.tsukuba.ac.jp**
 
 - スキル
   - プログラミング経験，研究等で使用(Python 3年，C/C++ 4年)
